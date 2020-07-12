@@ -15,6 +15,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity
 {
+//    全部コミットします
     private TextView countLabel;
     private TextView questionLabel;
     private Button answerBtn1;
